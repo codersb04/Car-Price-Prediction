@@ -30,7 +30,7 @@ Libraries needed to achieve the result are: </br>
 . Use read_csv function from pandas to import the dataset.</br>
 . Use the function such as shape, describe, head, and info to know more about the data set</br>
 . Check for the missing value using the isnull function</br>
-. Replace all the categorical data which are in the test form with numeric form.</br>
+. Replace all the categorical data which are in the text form with numeric form.</br>
 . Finally, splitting the dataset into features and labels. The label will contain the column **Selling Price** and the feature will contain the rest of the column except Car Name and Selling Price.
 ### Model Training and Evaluation 
 . Split the dataset into training and test data. We have taken 10% of the for test purposes and the rest 90% for the training.</br>
